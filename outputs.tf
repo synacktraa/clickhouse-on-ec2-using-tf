@@ -1,6 +1,6 @@
 output "public_ip" {
   value       = aws_instance.clickhouse_server.public_ip
-  description = "Public IPv4 of the ClickHouse EC2 instance"
+  description = "Public IPv4 of the EC2 instance"
 }
 
 output "clickhouse_password" {

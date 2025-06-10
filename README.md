@@ -4,7 +4,6 @@
 
 1. **AWS CLI configured** with appropriate credentials
 2. **Terraform installed**
-3. **EC2 Key Pair** created in your target AWS region
 
 ## Deployment Steps
 
